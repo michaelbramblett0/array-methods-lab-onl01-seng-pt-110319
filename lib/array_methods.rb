@@ -19,7 +19,7 @@ end
 
 def using_last(array)
   using_last = ["wow","wow!","arrays!"]
-  using_last[3]
+  using_last[]
 end
 
 def using_size(array)
